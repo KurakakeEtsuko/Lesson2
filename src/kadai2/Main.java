@@ -19,6 +19,7 @@ public class Main {
 
 	floa.setPrice(450);
 	floc.setPrice(950);
+	floc.setPrice(950);
 
 	System.out.println("5月22日に" + floa.getName() + "は" + floa.getPrice() + "円に値下げされます。");
 	System.out.println("5月22日に" + floc.getName() + "は" + floc.getPrice() + "円に値下げされます。");
